@@ -1,2 +1,2 @@
 # repertoire
-une application qui va servir à enregistrer les articles vendus
+une application de gestion de stock
